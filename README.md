@@ -33,3 +33,6 @@ ADDITIONAL NOTES/ISSUES
 
 
 
+Link to Shuttle Orbiter Construction Kit:  https://forum.kerbalspaceprogram.com/index.php?/topic/186023-17x-shuttle-orbiter-construction-kit-stockalike-space-shuttle-orbiter-initial-release-v100/
+
+
