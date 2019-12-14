@@ -2,7 +2,9 @@
 Realism Overhaul patches for Benjee10's Shuttle Orbiter Construction Kit
 
 
+
 These patches add Realism Overhaul, Real Fuels and FAR compatibility to the Shuttle Orbiter Construction Kit.
+
 
 An overview of the exact changes:
 
@@ -17,7 +19,8 @@ orbiter RCS. 1000 ignitions.
 -Orbiter RCS have 2kn thrust. This is to simplify things. (the real shuttle had nozzles that could give over 3kn thrust and fine adjustment nozzles with as little as 0.1Kn thrust). Also burn MMH/MON3 and enjoy the same specific impulse of 316.
 
 
-Installation:
+
+INSTALLATION:
 
 DELETE original Patches folder in Kerbal Space Program\GameData\Benjee10_shuttleOrbiter, then replace with the Patches folder from here. 
 
@@ -27,7 +30,7 @@ ADDITIONAL NOTES/ISSUES
 
 -The only part that should carry fuel is the aft fuselage section, however, there are tanks in every fuselage section, You may need Fuel Lines in order for the crossfeed to work properly though.
 
--The rudder that comes with this mod can NOT be used properly, due to limitations with FARControllableSurface, I advise you the use the stock spaceplane rudder and tweakscale.
+-The rudder that comes with this mod can NOT be used properly, due to limitations with FARControllableSurface, I advise you to use the stock spaceplane rudder and tweakscale.
 
 -HTrobotic parts and the "C-100 Androgynous Docking Mechanism" are not touched.
 
